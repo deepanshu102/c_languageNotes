@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+// #include<conio.h>
+int main()
 {//start of Main
-    printf("Hello World")
+    printf("Hello World");
 }//End of main
