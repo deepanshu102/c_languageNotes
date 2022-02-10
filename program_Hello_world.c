@@ -5,7 +5,7 @@ void main(){
  x=10;
  y=20
  z=x+y;
- printf("%d",z)
- printf("Bye")
- printf("Hello")
+ printf("%d",z);
+ printf("Bye");
+ printf("Hello");
 }
